@@ -79,8 +79,3 @@ The **AI-AHP Decision Agent** integrates structured decision logic (AHP) with AI
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, SciPy  
 - **Optional Tools:** Gemini Deep Research / Perplexity / GPT for research  
 - **Visualization:** Jupyter Notebook, Matplotlib  
-
----
-
-## 📂 Repository Structure  
-
