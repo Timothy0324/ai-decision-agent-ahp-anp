@@ -4,6 +4,13 @@
 🏆 **1st Place – T.L. Saaty Decision-Making for Leaders Hackathon (University of Pittsburgh, 2025)**  
 Built an AI-powered decision support system that helps **B2B companies** identify which market or innovation to prioritize — using **AHP (Analytic Hierarchy Process)** and **AI-assisted research automation**.
 
+You can explore the full analysis and presentation below:
+- **AHP Model Notebook** — core logic, pairwise matrices, sensitivity tests, and Monte Carlo simulation  
+  👉 [Open Notebook](<[INSERT LINK](https://github.com/Timothy0324/ai-decision-agent-ahp-anp/blob/main/Hackathon_AI%20DECISION%20AGENT_AHP.ipynb)>)
+
+- **Final Presentation (PDF)** — our 1st-place winning presentation  
+  👉 [View Presentation](<[Where B2B Innovation Should Go_compressed.pdf](https://github.com/Timothy0324/ai-decision-agent-ahp-anp/blob/main/Where%20B2B%20Innovation%20Should%20Go_compressed.pdf)>)
+
 ---
 
 ## Project Overview  
