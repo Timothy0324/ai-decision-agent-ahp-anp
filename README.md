@@ -1,4 +1,3 @@
-# ai-decision-agent-ahp-anp
 # 🧠 AI-AHP Decision Agent  
 ### Guiding Where B2B Innovation Should Go Next  
 
